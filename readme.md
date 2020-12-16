@@ -3,6 +3,7 @@
 使用了webpack ➕ Typescript ➕ React
 
 项目目录：
+```
 📦react-ts-starter
  ┣ 📂.git
  ┣ 📂public
@@ -38,3 +39,4 @@
  ┣ 📜package-lock.json
  ┣ 📜package.json
  ┗ 📜tsconfig.json
+```
