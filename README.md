@@ -40,3 +40,5 @@
  ┣ 📜package.json
  ┗ 📜tsconfig.json
 ```
+### TODO
+使用thread loader优化打包速度
